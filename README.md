@@ -48,5 +48,5 @@ This project focuses on:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minishell.git
+   git clone https://github.com/hassan-kheireddin/minishell.git
    cd minishell
